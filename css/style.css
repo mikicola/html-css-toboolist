@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #f6f8f9;
+}
+
+.page-header{
+    padding: 10px;
+    background-color: #fff;
+}
+.page-header img {
+    vertical-align: middle;
+}
+
+.page-header h1{
+    vertical-align: middle;
+    display: inline;
+}
+
+main{
+    height: 500px;
+    width: 810px;
+    background-color: #fff;
+    margin: auto;
+    margin-top: 25px;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+
+.buttons{
+    padding-bottom: 10px;
+}
+
+.arrow{
+    
+}
+
+hr { 
+    background-color: #f6f8f9;
+    height: 3px;
+    border: 0;
+  }
+
+  h3{
+      color: #444851;
+      padding-top: 20px;
+  }
+
+  ul{
+    list-style-type: none;
+}
+
+li{
+    /* display: inline-block; */
+    margin-top: 10px;
+}
+
+.chek{
+    color: green;
+    border-color: green;
+    border-radius: 50%;
+    border-width: 1px;
+    border-style: solid;
+    width: 20px;
+    height: 20px;
+    /* padding-bottom: 5px; */
+     text-align: center;
+    display: inline-block;
+}
+
+.cross{
+    color: red;
+    border-color: red;
+    border-radius: 50%;
+    border-width: 1px;
+    border-style: solid;
+    width: 20px;
+    height: 20px;
+    /* padding-bottom: 5px; */
+    text-align: center;
+    display: inline-block;
+}
+
+.tag{
+    color: #ffffff;
+    border-radius: 15px;
+    border-width: 1px;
+    border-style: solid;
+    width: 75px;
+    height: 15px;
+    text-align: center;
+    display: inline-block;
+    padding: 5px;
+    font-size: 12px;
+    /* margin-left: 5px; */
+}
+
+.blue{
+    background-color: #45abea;
+}
+
+.violet{
+    background-color: mediumpurple;
+}
+
+.green{
+    background-color: #64c0a9;
+}
+
+.orange{
+    background-color: #f29e33;
+}
+
+.pink{
+    background-color: #d863a1;
+}
+
+.green1{
+    background-color: #b0c926;
+}
+
+/* .circle{
+    
+    width: 23px;
+  height: 23px;
+  text-align: center;
+  border: 0%;
+ 
+  
+  border-radius: 50%;
+  stroke: green;
+  stroke-width: 1;
+  background-size: 1px;
+ 
+  
+  background: #bcd6ff;
+
+  
+} */
